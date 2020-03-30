@@ -1,8 +1,9 @@
-Unidade 1 -
+UNIDADE 1:
 
 Gerações de computadores:
 
 Charles Babbage visulumbrava partes como rodas, correias de alta precisão que não era compatível com a tecnologia de sua época, essa máquina nunca chegou a ser construída. Porém deixou um legado de estudo.
+
 
 - Primeira geração:
 
@@ -33,6 +34,7 @@ Consumo de menos de 1-100 da energia de uma válvula.
 Redução do tamanho das máquinas.
 Processamento lento, mas já em milissegundos.
 
+
 - Terceira geração:
 Multiprogamação, 1965 - 1980.
 IBM lançou o IBM 360, primeiro a utilizar circuitos integrados.
@@ -41,11 +43,21 @@ Começo da produção de minicomputadores.
 Tempo compartilhado e Sistema operacial.
 Assembly e primeiros softwares.
 
+
 - Quarta geração:
+1980 - Atualmente.
+Computadores pessoais. Aprimoramento dos circuitos integrados, contendo milhares de transistores em alguns centímetros quadrados de silício.
+Introdução dos microprocessadores.
+Desenvolvimento dos computadores Pessoais. VLSI: Very Large Scale Integration.
+Tablets, Notebooks, Videogames, Smartphones.
+SOs como Linux, MS-DOS, UNIX, Machintosh. Lingagues como C++ e smalltalk. Teclados com os padrões atuais.
 
+====
 
-- Quinta geração:
+UNIDADE 2:
 
-
-
+Tipos de Sistemas Operacionais:
+SOs baseados em Lote(Batch). Processamento em fila, sequência.
+De Rede, capazes de trocar informações através de protocólos de rede em um ambiente WAN ou LAN.
+Multitarefa e multiusuário.
 
