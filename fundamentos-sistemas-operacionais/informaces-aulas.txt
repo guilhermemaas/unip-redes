@@ -1,0 +1,51 @@
+Unidade 1 -
+
+Gerações de computadores:
+
+Charles Babbage visulumbrava partes como rodas, correias de alta precisão que não era compatível com a tecnologia de sua época, essa máquina nunca chegou a ser construída. Porém deixou um legado de estudo.
+
+- Primeira geração:
+
+Na universidade do Estado de Iowa, 1937 - 1942, professor John Atanasoff e seu aluno Clifford Edward Berry criaram o primeiro computador digital eletrônico.
+
+Desse computador derivou o ENIAC - Eletronic Numerical Integrator And Computer.
+Possuia 17 mil válvulas, 10 mil capacitores, 70 mil resistores, pesava 30 toneladas, consumia 140 quilowates e podia executar 5 mil adições por segundo.
+
+Seu Painel de programação continha 6 mil conectores.
+
+Primeiro computador digital e eletrônico.
+
+Computadores da primeira geração utilizavam válvulas a vácuo e tambores magnéticos para armazenamento de dados.
+
+
+- Segunda geração:
+
+Utilização de transistores, redução do tamanho das máquinas, processamento na ordem de milissegundos.
+1955 - 1965. Esses computadores eram instalados em salas preparadas. Computadores de grande porte chamados de mainframes. Cargos como Projetistas, Fabricantes, Programadores e Técnicos de manutenção ficaram organizadas na época.
+
+Leitor de cartões perfurados > Unidade de Fita > Fita de Entrada > Sistema de Fitas > Fitas de Saída > Impressora.
+
+IBM 1401 - Bom para leitura de cartões
+IBM 7094 - Ótimo para cálculos.
+
+Transistores, 1-200 do tamanho das válvulas.
+Consumo de menos de 1-100 da energia de uma válvula.
+Redução do tamanho das máquinas.
+Processamento lento, mas já em milissegundos.
+
+- Terceira geração:
+Multiprogamação, 1965 - 1980.
+IBM lançou o IBM 360, primeiro a utilizar circuitos integrados.
+Diminuição do tamanho dos computadores. 
+Começo da produção de minicomputadores.
+Tempo compartilhado e Sistema operacial.
+Assembly e primeiros softwares.
+
+- Quarta geração:
+
+
+- Quinta geração:
+
+
+
+
