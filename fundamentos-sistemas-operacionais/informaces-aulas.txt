@@ -60,4 +60,11 @@ Tipos de Sistemas Operacionais:
 SOs baseados em Lote(Batch). Processamento em fila, sequência.
 De Rede, capazes de trocar informações através de protocólos de rede em um ambiente WAN ou LAN.
 Multitarefa e multiusuário.
+Embarcado - TV, DVD, MP3, IoT.
+	Sistema em tempo real: militares e indistruis: QNX e VxWorks.
+	Sistema de tempo real não críticos.
+Sistemas operaciois Unix em grande porte.
+Sistemas operacionais Multiprocessadores ou Multinúcleos: Windows, Linux, Solaris, AIX.
+CPUs modernas podem executar mais de uma instrução em tempo concorrente, é o que chamamos de pipeline(busca, execução, decodificação, instrução, etc). Pipeline: Busca > Decodificação > Execução.
+
 
