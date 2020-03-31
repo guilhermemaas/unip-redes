@@ -68,3 +68,5 @@ Sistemas operacionais Multiprocessadores ou Multinúcleos: Windows, Linux, Solar
 CPUs modernas podem executar mais de uma instrução em tempo concorrente, é o que chamamos de pipeline(busca, execução, decodificação, instrução, etc). Pipeline: Busca > Decodificação > Execução.
 
 
+====
+
